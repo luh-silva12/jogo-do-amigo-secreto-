@@ -1,11 +1,11 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
-    --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-primary:#F6BD60;
+    --color-secondary: #F7EDE2;
+    --color-tertiary:#F5CAC3;
+    --color-button: #F5CAC3;
+    --color-button-hover: #F6BD60;
+    --color-text: #000000;
+    --color-black: #000000;
 }
 
 /* Estilos gerais */
@@ -65,7 +65,7 @@ body {
     font-family: "Inter", serif;
     font-size: 36px;
     font-weight: 700;
-    color: var(--color-primary);
+    color: var(--color-black);
     margin: 10px 0;
     text-align: center;
 }
@@ -160,3 +160,14 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+.reiniciarJogo {
+    display: flex;
+   width: 100%;
+    align-items: center;
+    padding: 10px 20px;
+    color: var(--color-white);
+    background-color: var(--color-button);
+    font-size: 16px;
+    
+}
+
