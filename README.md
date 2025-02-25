@@ -1,6 +1,6 @@
 <h1 align="center"> Desafio do Amigo Secreto </h1> 
 
-![foto do jogo do amigo secreto](https://github.com/user-attachments/assets/c0bac6a0-dd0d-41b0-9eae-b521eda63bfa)
+![jogo do amigo secreto challenge ](https://github.com/user-attachments/assets/05f25861-bbed-44be-acb9-96e2ca4db64a)
 
 #### Este projeto foi um desafio proposto pela Alura no estilo Challenge, com o objetivo de praticar habilidades em JavaScript. ####
 
