@@ -1,7 +1,7 @@
 :root {
-    --color-primary:#F6BD60;
-    --color-secondary: #F7EDE2;
-    --color-tertiary:#F5CAC3;
+    --color-primary: #F6BD60;
+    --color-secondary:#F7EDE2;
+    --color-tertiary: #F5CAC3;
     --color-button: #F5CAC3;
     --color-button-hover: #F6BD60;
     --color-text: #000000;
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #38b000;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -160,14 +160,3 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
-.reiniciarJogo {
-    display: flex;
-   width: 100%;
-    align-items: center;
-    padding: 10px 20px;
-    color: var(--color-white);
-    background-color: var(--color-button);
-    font-size: 16px;
-    
-}
-
